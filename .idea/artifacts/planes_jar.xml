@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="planes:jar">
+    <output-path>D:/Java/myjar</output-path>
+    <root id="archive" name="planes.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/Java/jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="planes" />
+      <element id="module-source" name="planes" />
+    </root>
+  </artifact>
+</component>
